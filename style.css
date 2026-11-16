@@ -1,0 +1,15 @@
+:root {
+    --primary: #FAFAFA;
+    --secondary: #111111;
+    --accent: #FD9222;
+    --accent-bg: #1E1823;
+
+
+
+}
+
+* {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    margin: 0;
+}
